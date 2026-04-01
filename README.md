@@ -19,14 +19,6 @@ I spend most of my time writing TypeScript, designing systems that scale, and ex
 
 ---
 
-### Currently building
-
-#### AI Agent Framework for Developers
-
-A comprehensive framework that brings AI-powered agent orchestration directly into your development workflow. Built around Claude Code and designed to make intelligent automation accessible to every developer.
-
----
-
 ### Tech stack
 
 **Languages**
@@ -79,6 +71,4 @@ A comprehensive framework that brings AI-powered agent orchestration directly in
 
 ### Connect
 
-[![Website](https://img.shields.io/badge/claudekit.cc-000?style=flat-square&logo=vercel&logoColor=white)](https://claudekit.cc)
-[![Docs](https://img.shields.io/badge/docs.claudekit.cc-58A6FF?style=flat-square&logo=gitbook&logoColor=white)](https://docs.claudekit.cc)
 [![GitHub](https://img.shields.io/badge/@tungarent-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tungarent)
