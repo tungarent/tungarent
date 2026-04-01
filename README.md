@@ -21,16 +21,9 @@ I spend most of my time writing TypeScript, designing systems that scale, and ex
 
 ### Currently building
 
-#### [ClaudeKit](https://claudekit.cc) — AI Agent Framework for Developers
+#### AI Agent Framework for Developers
 
 A comprehensive framework that brings AI-powered agent orchestration directly into your development workflow. Built around Claude Code and designed to make intelligent automation accessible to every developer.
-
-```bash
-npm install -g claudekit-cli
-ck new --dir my-project --kit engineer
-```
-
-📖 [docs.claudekit.cc](https://docs.claudekit.cc)
 
 ---
 
